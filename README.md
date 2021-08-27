@@ -1,7 +1,6 @@
 ---
 title: portfolio
 description: Stas Yakobov's portfolio, fire1ce portfolio
-
 ---
 
 <p align="center">
