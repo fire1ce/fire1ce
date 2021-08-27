@@ -1,3 +1,8 @@
+---
+title: portfolio
+description: Stas Yakobov's portfolio, fire1ce portfolio
+
+---
 
 <p align="center">
     <a href="https://github.com/fire1ce/"><img src="https://gpvc.arturio.dev/fire1ce?v=3"/></a>
