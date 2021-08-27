@@ -1,6 +1,35 @@
 <head>
-    <link rel="stylesheet" href="README.css">
-    <link rel="stylesheet" href="../README.css">
+<style>
+.wrapper {
+    overflow: hidden;
+}
+
+.wrapper div {
+    min-height: 200px;
+    padding: 10px;
+}
+#one {
+    float: left;
+    margin-right: 20px;
+    width: 200px;
+}
+#two {
+    overflow: hidden;
+    margin: 10px;
+    min-height: 170px;
+}
+  
+@media screen and (max-width: 800px) {
+    #one {
+      float: none;
+      max-width: 200px;
+      margin-right: 0;
+      width: auto;
+      border: 0;
+      border-bottom: 2px solid #000;
+      margin: auto;
+}
+</style>
 </head>
 
 <p align="center">
