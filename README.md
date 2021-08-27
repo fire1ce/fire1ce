@@ -5,21 +5,15 @@
     <a href="https://github.com/fire1ce/"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
 </p>
 
-<h3 align="center">
-About Me
+<h3 align="center"  >
+I'm Stas Yakobov aka fire1ce
 </h3>
-<div class="wrapper">
-    <div id="one" align="center">
-        <!-- <img alt="logo" src="https://3os.org/assets/images/logo/chart-donut-variant.svg" /> -->
-        <h4>fire1ce</h4>
-    </div>
-    <div id="two">
-        <p> - 🌱 Lorem Ipsum is simply dummy text of the printing and typesettin.</p>
-        <p> - 🏆 It is a long established fact that a reader will be distracted.</p>
-        <p> - 📫 If you are going to use a passage of Lorem Ipsum?</p>
-        <p> - 😄 The standard chunk of Lorem Ipsum used since the 1500s </p>
-    </div>
-  </div>
+<div style="margin: auto; max-width: 800px;" >
+    <p> - 🌱 Lorem Ipsum is simply dummy text of the printing and typesettin.</p>
+    <p> - 🏆 It is a long established fact that a reader will be distracted.</p>
+    <p> - 📫 If you are going to use a passage of Lorem Ipsum?</p>
+    <p> - 😄 The standard chunk of Lorem Ipsum used since the 1500s</p>
+</div>
 
 <h5 align="center">
 How To Reach Me
