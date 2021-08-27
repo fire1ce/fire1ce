@@ -5,14 +5,14 @@
     <a href="https://github.com/fire1ce/"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
 </p>
 
-<h3 align="center"  >
-I'm Stas Yakobov aka fire1ce
+<h3 align="center">
+Stas Yakobov aka fire1ce
 </h3>
 <div style="margin: auto; max-width: 800px;" >
-    <p> - 🌱 Lorem Ipsum is simply dummy text of the printing and typesettin.</p>
-    <p> - 🏆 It is a long established fact that a reader will be distracted.</p>
-    <p> - 📫 If you are going to use a passage of Lorem Ipsum?</p>
-    <p> - 😄 The standard chunk of Lorem Ipsum used since the 1500s</p>
+    <p> • I'm information security consultant - specialized in web application and penteration testing</p>
+    <p> • I like experimenting with technologies, building small projects, automate everything.</p>
+    <p> • Passionate about security, linux, dockers, electronics(IoT), coding, open-source and knowledge</p>
+    <p> • I'm the owner and the maintener of a <a>https://3os.org</a> knowledge-base website</p>
 </div>
 
 <h5 align="center">
