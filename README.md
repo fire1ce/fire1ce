@@ -1,36 +1,3 @@
-<head>
-<style>
-.wrapper {
-    overflow: hidden;
-}
-
-.wrapper div {
-    min-height: 200px;
-    padding: 10px;
-}
-#one {
-    float: left;
-    margin-right: 20px;
-    width: 200px;
-}
-#two {
-    overflow: hidden;
-    margin: 10px;
-    min-height: 170px;
-}
-  
-@media screen and (max-width: 800px) {
-    #one {
-      float: none;
-      max-width: 200px;
-      margin-right: 0;
-      width: auto;
-      border: 0;
-      border-bottom: 2px solid #000;
-      margin: auto;
-}
-</style>
-</head>
 
 <p align="center">
     <a href="https://github.com/fire1ce/"><img src="https://gpvc.arturio.dev/fire1ce?v=3"/></a>
@@ -43,7 +10,7 @@ About Me
 </h3>
 <div class="wrapper">
     <div id="one" align="center">
-        <img alt="logo" src="https://3os.org/assets/images/logo/chart-donut-variant.svg" />
+        <!-- <img alt="logo" src="https://3os.org/assets/images/logo/chart-donut-variant.svg" /> -->
         <h4>fire1ce</h4>
     </div>
     <div id="two">
