@@ -40,5 +40,4 @@ How To Reach Me
 </p>
 <p align="center">
     <img width="452" src="https://github-readme-stats.vercel.app/api?username=fire1ce&count_private=true" />
-    <img width="378" src="https://github-readme-stats.vercel.app/api/top-langs?username=fire1ce&show_icons=true&locale=en&layout=compact" />
 </p>
