@@ -1,10 +1,5 @@
 # Portfolio
 
-<head>
-    <meta name="description" content="Stas Yakobov's portfolio, fire1ce portfolio">
-    <meta name="keywords" content="Stas Yakobov, fire1ce, portfolio, github">
-</head>
-
 <p align="center">
     <a href="https://github.com/fire1ce/"><img src="https://gpvc.arturio.dev/fire1ce?v=3"/></a>
     <a href="https://github.com/fire1ce?tab=followers"><img src="https://img.shields.io/github/followers/fire1ce?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
