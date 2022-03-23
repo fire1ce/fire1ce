@@ -9,6 +9,7 @@
 <h3 align="center">
 Stas Yakobov aka fire1ce
 </h3>
+
 <div style="margin: auto; max-width: 800px;" >
     <p> • I'm information security consultant - specialized in web application and penteration testing</p>
     <p> • I like experimenting with technologies, building small projects, automate everything.</p>
@@ -19,6 +20,7 @@ Stas Yakobov aka fire1ce
 <h5 align="center">
 How To Reach Me
 </h5>
+
 <p align="center">
     <a href="https://github.com/fire1ce">
         <img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"/>
