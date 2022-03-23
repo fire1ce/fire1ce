@@ -26,7 +26,7 @@ How To Reach Me
         <img alt="github" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/stas-yakobov/">
-        <img alt="linkedin"  src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
         <a href="https://twitter.com/fire1ce">
         <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -36,5 +36,5 @@ How To Reach Me
     </a>
 </p>
 <p align="center">
-    <imgt alt="stats" width="452" src="https://github-readme-stats.vercel.app/api?username=fire1ce&count_private=true" />
+    <img alt="stats" width="452" src="https://github-readme-stats.vercel.app/api?username=fire1ce&count_private=true" />
 </p>
