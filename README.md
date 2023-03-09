@@ -11,7 +11,7 @@ Stas Yakobov aka fire1ce
 </h3>
 
 <div style="margin: auto; max-width: 800px;" >
-    <p> • I'm information security consultant - specialized in web application and penteration testing</p>
+    <p> • I'm security researcher - specialized in hardware pentetrations tests</p>
     <p> • I like experimenting with technologies, building small projects, automate everything.</p>
     <p> • Passionate about security, linux, dockers, electronics(IoT), coding, open-source and knowledge</p>
     <p> • I'm the owner and the maintener of a <a href='https://3os.org'>3os.org</a> knowledge-base website</p>
